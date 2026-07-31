@@ -18,6 +18,7 @@ A responsive personal bio page built using only HTML and CSS.
 - HTML5
 - CSS3
 - Google Fonts
+
 ![Uploading image.png…]()
 
 
